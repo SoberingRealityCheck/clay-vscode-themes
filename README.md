@@ -1,24 +1,23 @@
 # Clay's VS Code Themes
 
+Light, earthy themes for VS Code.
+
 ## Vancouver
 
-A light VS Code theme. White backdrop, warm charcoal text, forest green + bark brown + olive, with blue and teal accents.
+A calm light theme. White backdrop, soft charcoal text, forest green, bark brown and olive. Teal is the one cool accent.
+
+![Vancouver](images/vancouver.png)
 
 | Token | Color |
 |---|---|
 | Keywords | forest green `#4a7c55` |
 | Strings | bark brown `#8c6f58` |
 | Types, decorators | olive `#6e7d3f` |
-| Functions | blue `#3d70a3` |
-| Numbers, constants | teal `#2a8089` |
+| Functions | teal `#3f7f86` |
+| Numbers | ochre `#a0793a` |
 | Comments | gray-green `#858f80` |
 | Text | `#2b2b29` |
 
-## Install
+Run `Preferences: Color Theme` and pick **Vancouver**.
 
-Build the package, then install it:
-
-    npx @vscode/vsce package
-    code --install-extension clay-vscode-themes-0.1.0.vsix
-
-Then run `Preferences: Color Theme` and pick **Vancouver**.
+Syntax colors are tuned for Python and LaTeX. Other languages use the same scopes and may need small tweaks.

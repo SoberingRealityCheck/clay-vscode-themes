@@ -17,5 +17,21 @@
         "path": "./themes/vancouver-color-theme.json"
       }
     ]
-  }
+  },
+  "description": "Light, earthy VS Code themes. White backdrop, forest green, bark brown, olive and teal.",
+  "icon": "images/icon.png",
+  "keywords": [
+    "theme",
+    "light",
+    "light theme",
+    "green",
+    "earth",
+    "nature",
+    "calm"
+  ],
+  "galleryBanner": {
+    "color": "#f1f4ed",
+    "theme": "light"
+  },
+  "license": "MIT"
 }
