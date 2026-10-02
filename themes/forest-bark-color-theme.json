@@ -23,7 +23,7 @@
     "activityBar.foreground": "#4a7c55",
     "activityBar.inactiveForeground": "#8a9484",
     "activityBar.border": "#ebeee8",
-    "activityBarBadge.background": "#6b84a3",
+    "activityBarBadge.background": "#4a7c55",
     "activityBarBadge.foreground": "#ffffff",
     "sideBar.background": "#f8f9f6",
     "sideBar.foreground": "#2b2b29",
@@ -59,10 +59,10 @@
     "button.hoverBackground": "#3f6a49",
     "input.background": "#ffffff",
     "input.border": "#cfd6c8",
-    "focusBorder": "#3d70a3",
+    "focusBorder": "#4a7c5580",
     "textLink.foreground": "#2a8089",
-    "textLink.activeForeground": "#3d70a3",
-    "badge.background": "#6b84a3",
+    "textLink.activeForeground": "#4a7c55",
+    "badge.background": "#4a7c55",
     "badge.foreground": "#ffffff",
     "gitDecoration.modifiedResourceForeground": "#6e7d3f",
     "gitDecoration.addedResourceForeground": "#4a7c55",
@@ -75,7 +75,7 @@
     "terminal.ansiRed": "#a95a4d",
     "terminal.ansiGreen": "#4a7c55",
     "terminal.ansiYellow": "#8c6f58",
-    "terminal.ansiBlue": "#3d70a3",
+    "terminal.ansiBlue": "#52799a",
     "terminal.ansiMagenta": "#80648a",
     "terminal.ansiCyan": "#2a8089",
     "terminal.ansiWhite": "#c9cfc2",
@@ -83,7 +83,7 @@
     "terminal.ansiBrightRed": "#bf6e61",
     "terminal.ansiBrightGreen": "#5e8f68",
     "terminal.ansiBrightYellow": "#6e7d3f",
-    "terminal.ansiBrightBlue": "#5a8ac0",
+    "terminal.ansiBrightBlue": "#6b8fae",
     "terminal.ansiBrightMagenta": "#9a7ea4",
     "terminal.ansiBrightCyan": "#3d98a1",
     "terminal.ansiBrightWhite": "#e0e5dc",
@@ -91,7 +91,7 @@
     "editorBracketHighlight.foreground2": "#8c6f58",
     "editorBracketHighlight.foreground3": "#2a8089",
     "editorBracketHighlight.foreground4": "#6e7d3f",
-    "editorBracketHighlight.foreground5": "#6b84a3",
+    "editorBracketHighlight.foreground5": "#a0793a",
     "editorBracketHighlight.foreground6": "#80648a",
     "editorBracketHighlight.unexpectedBracket.foreground": "#a95a4d",
     "statusBar.border": "#e6eae1",
@@ -146,7 +146,7 @@
         "constant.character.escape"
       ],
       "settings": {
-        "foreground": "#2a8089"
+        "foreground": "#a0793a"
       }
     },
     {
@@ -156,7 +156,7 @@
         "meta.function-call"
       ],
       "settings": {
-        "foreground": "#3d70a3"
+        "foreground": "#3f7f86"
       }
     },
     {
