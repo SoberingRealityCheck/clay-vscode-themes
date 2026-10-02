@@ -1,4 +1,6 @@
-# Forest and Bark
+# Clay's VS Code Themes
+
+## Vancouver
 
 A light VS Code theme. White backdrop, warm charcoal text, forest green + bark brown + olive, with blue and teal accents.
 
@@ -17,6 +19,6 @@ A light VS Code theme. White backdrop, warm charcoal text, forest green + bark b
 Build the package, then install it:
 
     npx @vscode/vsce package
-    code --install-extension forest-bark-theme-0.0.5.vsix
+    code --install-extension clay-vscode-themes-0.1.0.vsix
 
-Then run `Preferences: Color Theme` and pick **Forest and Bark**.
+Then run `Preferences: Color Theme` and pick **Vancouver**.
