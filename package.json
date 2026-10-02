@@ -1,0 +1,17 @@
+{
+  "name": "forest-bark-theme",
+  "displayName": "Forest and Bark",
+  "version": "0.0.1",
+  "publisher": "clay",
+  "engines": { "vscode": "^1.80.0" },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Forest and Bark",
+        "uiTheme": "vs",
+        "path": "./themes/forest-bark-color-theme.json"
+      }
+    ]
+  }
+}
