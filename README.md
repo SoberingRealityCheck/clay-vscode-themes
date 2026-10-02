@@ -1,10 +1,10 @@
 # Clay's VS Code Themes
 
-Light, earthy themes for VS Code.
+my personal vscode theme collection.
 
 ## Vancouver
 
-A calm light theme. White backdrop, soft charcoal text, forest green, bark brown and olive. Teal is the one cool accent.
+sort of a green/brown forest themed one. designed it for LaTeX note taking.
 
 ![Vancouver](images/vancouver.png)
 
