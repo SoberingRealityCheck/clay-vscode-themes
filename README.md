@@ -17,6 +17,6 @@ A light VS Code theme. White backdrop, warm charcoal text, forest green + bark b
 Build the package, then install it:
 
     npx @vscode/vsce package
-    code --install-extension forest-bark-theme-0.0.3.vsix
+    code --install-extension forest-bark-theme-0.0.4.vsix
 
 Then run `Preferences: Color Theme` and pick **Forest and Bark**.
