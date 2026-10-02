@@ -1,7 +1,7 @@
 {
   "name": "forest-bark-theme",
   "displayName": "Forest and Bark",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "clay",
   "engines": { "vscode": "^1.80.0" },
   "categories": ["Themes"],
